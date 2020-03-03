@@ -1,0 +1,22 @@
+#header {
+    background: url(img/bg.jpg)center/ cover no-repeat fixed;
+    height: 75vh;
+}
+
+#explorer {
+    background-color: rgb(46, 45, 45);
+    height: 30vh;
+}
+
+#navbar {
+    background-color: white;
+    opacity: 0.5;
+}
+
+#en-tete {
+    background-color: grey;
+}
+
+#tete {
+    opacity: 0.9;
+}
